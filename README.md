@@ -1,1 +1,1 @@
-# Desenvolvimento de Dispositivos Móveis
+# Desenvolvimento para Dispositivos Móveis
